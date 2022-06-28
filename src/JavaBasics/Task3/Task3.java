@@ -12,7 +12,7 @@ public class Task3 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int n = sc.nextInt();
-        System.out.println(a * n);
-        System.out.println(b * n);
+        int x = a * n;
+        System.out.print( x+(b*n)/100 + " " + (b*n)%100);
     }
 }
