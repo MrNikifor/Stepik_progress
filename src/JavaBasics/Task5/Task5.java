@@ -5,12 +5,11 @@ import java.util.Scanner;
 public class Task5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
-        int b = 0;
-        int sum = a%10;
-        b = a/10%10;
-        int c = a/100;
-        int s = sum+b+c;
-        System.out.println(s);
+        int num = sc.nextInt();                        //получаем на ввод 179
+        int numFirst = num / 100;                      //находим первое число
+        int numLast = num % 10;                        //находим последнее число
+        int numMiddle = (num % 100) / 10;              //находим центральное число
+        int solve = numFirst + numMiddle + numLast;    //складываем полученные цифры и выводим ответ
+        System.out.println(solve);
     }
 }
