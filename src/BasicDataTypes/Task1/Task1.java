@@ -1,4 +1,4 @@
-package JavaBasics.Task1;
+package BasicDataTypes.Task1;
 
 import java.util.Scanner;
         /*На одной строчке через пробел записаны два целых числа: длина и ширина прямоугольника.

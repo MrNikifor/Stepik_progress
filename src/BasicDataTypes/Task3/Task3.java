@@ -1,4 +1,4 @@
-package JavaBasics.Task3;
+package BasicDataTypes.Task3;
 
 import java.util.Scanner;
 //Пирожок в столовой стоит a рублей и b копеек. Определите, сколько рублей и копеек нужно заплатить за n пирожков.

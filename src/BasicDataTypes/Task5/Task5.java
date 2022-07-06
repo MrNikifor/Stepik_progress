@@ -1,4 +1,4 @@
-package JavaBasics.Task5;
+package BasicDataTypes.Task5;
 
 import java.util.Scanner;
 //Дано трехзначное число. Найдите сумму его цифр.

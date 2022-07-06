@@ -1,4 +1,4 @@
-package JavaBasics.Task4;
+package BasicDataTypes.Task4;
 
 import java.util.Scanner;
 //Дано произвольное положительное натуральное число. Найдите его последнюю цифру.

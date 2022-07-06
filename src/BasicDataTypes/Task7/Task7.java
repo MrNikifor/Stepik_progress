@@ -1,4 +1,4 @@
-package JavaBasics.Task7;
+package BasicDataTypes.Task7;
 
 import java.util.Scanner;
 //Улитка ползёт по вертикальному шесту высотой h метров, поднимаясь за день на a метров, а за ночь спускаясь на b метров. На какой день улитка доползёт до вершины шеста?
