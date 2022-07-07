@@ -1,4 +1,4 @@
-package ConditionalOperators.Task10;
+package AdditionalСlasses.Task10;
 
 import java.util.Scanner;
 // Робот ВАЛЛ-И любит играть в такую игру: он называет натуральное число,

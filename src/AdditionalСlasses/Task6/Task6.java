@@ -1,4 +1,4 @@
-package ConditionalOperators.Task6;
+package AdditionalСlasses.Task6;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ConditionalOperators.Task15;
+package AdditionalСlasses.Task15;
 
 import java.util.Scanner;
 //ВАЛЛ-И называет натуральное число, а ЕВА записывает 3 последовательных числа, следующих после него.

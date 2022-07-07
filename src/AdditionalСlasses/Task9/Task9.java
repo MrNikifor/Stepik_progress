@@ -1,4 +1,4 @@
-package ConditionalOperators.Task9;
+package AdditionalСlasses.Task9;
 
 import java.util.Scanner;
 // ВАЛЛ-И, катаясь на лифте, заметил, что между двумя соседними этажами он проезжает за t  секунд. Составьте программу,

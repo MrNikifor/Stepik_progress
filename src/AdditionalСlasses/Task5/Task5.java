@@ -1,4 +1,4 @@
-package ConditionalOperators.Task5;
+package AdditionalСlasses.Task5;
 
 import java.util.Scanner;
 //ВАЛЛ-И хочет по электронным часам, показывающим часы и минуты,  узнать сколько времени в минутах прошло от начала суток.

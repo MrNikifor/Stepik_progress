@@ -1,4 +1,4 @@
-package ConditionalOperators.Task13;
+package AdditionalСlasses.Task13;
 
 import java.util.Scanner;
 // ВАЛЛ-И случайно забрел на ферму, где увидел лошадей и гусей. Лошадей он насчитал h штук, гусей - g штук.
